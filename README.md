@@ -1,5 +1,5 @@
 **To operate geiger counter:**
-- plug sensor into computer
+- plug sensor into computer and turn on
 
 **To Compile:** 
 - "g++ read_counter.cpp -o read_counter" 
