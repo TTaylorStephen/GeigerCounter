@@ -1,4 +1,4 @@
-**to run geiger counter:**
+**To operate geiger counter:**
 - plug sensor into computer
 
 **To Compile:** 
